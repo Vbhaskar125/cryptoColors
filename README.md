@@ -8,6 +8,7 @@ Inspired from cryptoKitties, Cryptocolors is an attempt to implement NFTs on ERC
 The main idea is that players can own Colors and mix them to get new NFT colors.
 The color image is hosted on IPFS.
 
+## Structure Of the Code
 The whole code is broken down into contracts according to the functionality.
 
 - [Cryptocolors] is our main contract which inherits all the functionalities
