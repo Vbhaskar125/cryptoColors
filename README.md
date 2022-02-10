@@ -18,8 +18,9 @@ The whole code is broken down into contracts according to the functionality.
 
 
 ## IPFS image collection
-> colors from #000 to #9ff can be accessed with the CID of QmZNFPrHQwZ6sj6biCuuJCREJXvraL8LQqs2SmWNwvCsGV/{colorId}
-> colors from #9ff to #fff can be accessed with the CID of QmQPSkBDsgW83WEtG5w2HgipKPDQUQQu9tpvDyN5nVAPw8/{colorId}
+- colors from #000 to #9ff can be accessed with the CID of QmZNFPrHQwZ6sj6biCuuJCREJXvraL8LQqs2SmWNwvCsGV/{colorId}
+
+- colors from #9ff to #fff can be accessed with the CID of QmQPSkBDsgW83WEtG5w2HgipKPDQUQQu9tpvDyN5nVAPw8/{colorId}
 
 ex: ipfs://QmQPSkBDsgW83WEtG5w2HgipKPDQUQQu9tpvDyN5nVAPw8/d46.png
 
